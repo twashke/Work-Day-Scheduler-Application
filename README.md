@@ -52,7 +52,7 @@ Screen Shot Section \
 
 ## Credit
 
-- HTML and CSS files provided
+- HTML and CSS files provided.
 
 ## License
 
