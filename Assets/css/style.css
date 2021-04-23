@@ -1,9 +1,11 @@
+/* Body Element Text Styling */
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
 
+/* Textarea Element Styling */
 textarea {
   background: transparent;
   border: none;
@@ -13,6 +15,7 @@ textarea {
   padding: 10px;
 }
 
+/* Jumbotron Class Header Styling */
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -21,42 +24,55 @@ textarea {
   border-bottom: 10px solid black;
 }
 
+/* Description Class Text Styling */
 .description {
   white-space: pre-wrap;
 }
 
+/* Time Class Block Styling */
 .time-block {
   text-align: center;
   border-radius: 15px;
 }
 
+/* Row Class Styling */
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;
 }
 
+/* Hour Class Styling */
 .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
 }
 
+/* Past Class Styling */
 .past {
   background-color: #d3d3d3;
   color: white;
 }
 
+/* Present Class Styling */
 .present {
   background-color: #ff6961;
   color: white;
 }
 
+/* Future Class Styling */
 .future {
   background-color: #77dd77;
   color: white;
 }
 
+.btn,
+.saveBtn {
+  text-align: center;
+}
+
+/* Save Button Styling */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -65,6 +81,7 @@ textarea {
   color: white;
 }
 
+/* Save Button Hover Styling */
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
