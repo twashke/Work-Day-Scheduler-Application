@@ -67,11 +67,6 @@ textarea {
   color: white;
 }
 
-.btn,
-.saveBtn {
-  text-align: center;
-}
-
 /* Save Button Styling */
 .saveBtn {
   border-left: 1px solid black;

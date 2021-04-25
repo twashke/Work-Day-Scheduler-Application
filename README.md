@@ -24,12 +24,12 @@ This project is a Work Day Scheduler Application
 
 ## Installation
 
-- Open [Work Day Scheduler Application](insert Github link here) 
+- Open [Work Day Scheduler Application](https://twashke.github.io/Work-Day-Scheduler-Application/) 
 - Or, open index.html in the internet browser.
 
 ## Usage
 
-- Go to [Deployed Github Page](insert Github link here)
+- Go to [Deployed Github Page](https://twashke.github.io/Work-Day-Scheduler-Application/)
 - Project Usage
 - Project Usage
 - Project Usage
