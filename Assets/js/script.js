@@ -40,7 +40,7 @@ $(document).ready(function() {
     displayDate(); 
     // Run Change Color function
     changeColor();
-})
+});
 
 // Function to change color depending on time
 function changeColor () {
@@ -126,7 +126,7 @@ function handleSaveBtn(hour) {
     console.log(timeValue);
     // Save to local storage
     localStorage.setItem(hour, timeValue);
-}
+};
 
 // Listener Event for each button when clicked
 $("#9").on("click", function() {

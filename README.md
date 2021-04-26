@@ -37,21 +37,15 @@ This project is a Work Day Scheduler Application built so that the user can sche
 - If the page is reloaded, the entered tasks will remain visible in the time block it was scheduled in.
 - Depending on the current hour, the timeblocks will show different colors (past = gray, current = red, furture = green).
 
-Screen Shot Section \
-![Picture Description](Assets/images/) \
-\
-Screen Shot Section \
-![Picture Description](Assets/images/) \
-\
-Screen Shot Section \
-![Picture Description](Assets/images/) \
-\
-Screen Shot Section \
-![Picture Description](Assets/images/) \
-\
-Screen Shot Section \
-![Picture Description](Assets/images/) \
-\
+Work Day Scheduler Save Input and Refresh \
+![Save Input and Refresh](Assets/images/work-day-scheduler.gif) 
+
+Work Day Scheduler Day and Date \
+![Work Day and Date](Assets/images/work-day-date.png) 
+
+Color Change Depending on Time \
+![Color Change by Time](Assets/images/color-change-example.png) 
+
 
 ## Credit
 
