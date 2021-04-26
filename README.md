@@ -35,7 +35,7 @@ This project is a Work Day Scheduler Application built so that the user can sche
 - The current day and date will show at the top of the page.
 - To enter a task, click on the time block the task is scheduled for and enter the action item, then click save.
 - If the page is reloaded, the entered tasks will remain visible in the time block it was scheduled in.
-- Depending on the current hour, the timeblocks will show different colors (past = gray, current = red, furture = green).
+- Depending on the current hour, the timeblocks will show different colors (past = gray, current = red, future = green).
 
 Work Day Scheduler Save Input and Refresh \
 ![Save Input and Refresh](Assets/images/work-day-scheduler.gif) 
