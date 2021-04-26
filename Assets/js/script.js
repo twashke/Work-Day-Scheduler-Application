@@ -57,7 +57,7 @@ function changeColor () {
         // Remove present and past class and add future  
         $(".9").removeClass("present").removeClass("past").addClass("future");
         }
-      // Repeated steps above for hours 10 through 17
+      // Repeated steps above for hours 10 through 17 (Military time)
     } if (currentTime === 10) {
         $(".10").removeClass("past").removeClass("future").addClass("present");
         } else if (10 < currentTime) {
